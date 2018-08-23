@@ -43,7 +43,7 @@ class Auto {
 var auto = Auto()
 print ("\(auto.velocidad.rawValue), \(auto.velocidad)")
 
-for _ in 1...20{                                //prueba de la clase Auto, iterando 20 veces (de 1 a 20)
+for _ in 1...20{                                
     let (actual, velocidadEnCadena) = auto.cambioDeVelocidad()
     print ("\(actual), \(velocidadEnCadena)")
 }
