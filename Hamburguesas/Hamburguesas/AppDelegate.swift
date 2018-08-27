@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Hamburguesas
 //
-//  Created by Florencio Lugo on 8/24/18.
+//  Created by lugoff on 8/24/18.
 //  Copyright © 2018 lugoff23. All rights reserved.
 //
 
